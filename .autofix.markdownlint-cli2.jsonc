@@ -1,6 +1,6 @@
 {
   "config": {
-    "default": false,
+    "default": true,
     "no-trailing-spaces": {
       "br_spaces": 0
     }
